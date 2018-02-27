@@ -4,7 +4,7 @@ pragma solidity ^0.4.18;
 import "../token/MiniMeToken.sol";
 
 
-// FundRequest Diamond Innovator Token
+// FundRequest Bronze Innovator Token
 //
 // @authors:
 // Davy Van Roy <davy.van.roy@gmail.com>
@@ -12,14 +12,14 @@ import "../token/MiniMeToken.sol";
 //
 contract BronzeInnovator is MiniMeToken {
 
-    function FundRequestToken()
+    function BronzeInnovator()
     public
     MiniMeToken(
     0x0,
     0x0,
     0,
     'FundRequest Bronze Innovator',
-    1,
+    0,
     'FBI',
     false)
     {

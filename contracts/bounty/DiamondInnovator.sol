@@ -12,14 +12,14 @@ import "../token/MiniMeToken.sol";
 //
 contract DiamondInnovator is MiniMeToken {
 
-    function FundRequestToken()
+    function DiamondInnovator()
     public
     MiniMeToken(
     0x0,
     0x0,
     0,
-    'FundRequest Gold Innovator',
-    1,
+    'FundRequest Diamond Innovator',
+    0,
     'FDI',
     false)
     {
