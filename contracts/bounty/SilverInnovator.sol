@@ -18,9 +18,9 @@ contract SilverInnovator is MiniMeToken {
     0x0,
     0x0,
     0,
-    'FundRequest Silver Innovator',
+    'FundRequest Silver Development Innovator',
     0,
-    'FSI',
+    'FSDI',
     false)
     {
         //constructor

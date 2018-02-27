@@ -18,9 +18,9 @@ contract BronzeInnovator is MiniMeToken {
     0x0,
     0x0,
     0,
-    'FundRequest Bronze Innovator',
+    'FundRequest Bronze Development Innovator',
     0,
-    'FBI',
+    'FBDI',
     false)
     {
         //constructor

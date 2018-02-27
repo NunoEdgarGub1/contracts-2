@@ -18,9 +18,9 @@ contract DiamondInnovator is MiniMeToken {
     0x0,
     0x0,
     0,
-    'FundRequest Diamond Innovator',
+    'FundRequest Diamond Development Innovator',
     0,
-    'FDI',
+    'FDDI',
     false)
     {
         //constructor

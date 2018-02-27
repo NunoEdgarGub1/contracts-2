@@ -18,9 +18,9 @@ contract GoldInnovator is MiniMeToken {
     0x0,
     0x0,
     0,
-    'FundRequest Gold Innovator',
+    'FundRequest Gold Development Innovator',
     0,
-    'FGI',
+    'FGDI',
     false)
     {
         //constructor

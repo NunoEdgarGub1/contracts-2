@@ -50,27 +50,30 @@ Saving artifacts...
 ### Ropsten Innovators
 
 ```
+Using network 'ropsten'.
+
 Running migration: 1_migrations.js
   Replacing Migrations...
-  ... 0xf95321d7d9d63fdec00b6ea7476956416a4b457d1450ba24fabb48749a58b3d9
-  Migrations: 0x16d9e5e2a5e99265c62cebdc42c5a22acb7d1f5c
+  ... 0x938fa96c7205b9f5756f8dc2cbe23e6acb536f12c149e3582c957927f485f575
+  Migrations: 0x778a530acbd4dc2973f87984a77612fa12e0e8a7
 Saving successful migration to network...
-  ... 0x465beb6a77bd27d131ad97ad1e45c5346d0847df4caf48704040bbe7df5e240c
+  ... 0x759cac702e5ea1596f2eeb3205d8b28a76480e69971c5d85e28bcab3b9bc2299
 Saving artifacts...
 Running migration: 2_InnovatorContracts.js
   Replacing DiamondInnovator...
-  ... 0x5e4a140901f4a59a9a194e4fad24fd14fc7f1c202c916afaa8b7890121a68c30
-  DiamondInnovator: 0xc8d9d3094bb33f2feaa4eb48356a3ca056c7291b
+  ... 0xbb03788ce0c815cdd08e2fcd2b07ea783f865168635f1a253c84a5a94d3eef7e
+  DiamondInnovator: 0xdce47641dedb04baa7f968431affe47156dc4c54
 Saving successful migration to network...
   Deploying GoldInnovator...
-  ... 0xfeb4507dd7ecfa247560a915022cd030690bca6c5d1916990e735f7522acd3c3
-  ... 0x74ac3ef8b21cce887db97062a95dfaa213fae82911c862935913fc7e319bae1b
+  ... 0x94bd88203cd83811393532e327cf2505262aa6845182e079586c6118547ee085
+  ... 0x490f7240777f4cf57e5022d0fb6da72760ed97b600c5afa3e64a48b3cb3913e8
 Saving artifacts...
-  GoldInnovator: 0x75db3b67b76b8a7f5bb0dae2ccce5e1c43bc1cd7
+  GoldInnovator: 0x080b636691f9a48d6addf51050c941515e9c7b10
   Deploying SilverInnovator...
-  ... 0xf959ceb87b9c748e8c704493af6519454e828b16a31b733948a729caa6f3d4a1
-  SilverInnovator: 0x4cdb486e0ef24a064e6719b8798eec6feaaa451d
+  ... 0x6b22681b92a9ee119fe01638d985e0a2dcd04eedfc581fde9b3b769b4b05210f
+  SilverInnovator: 0x7e1fe747e05425b0c9a8f9cb0e0ea338da7c1402
   Deploying BronzeInnovator...
-  ... 0x8115ebac8cbbc009718d7e571a6f0dde140300e15d88a3130a349dc890230450
-  BronzeInnovator: 0x9b480a6146a50f7a042b409bbf86ab6ad5a282e3
+  ... 0xe07e6f66fadfb122c2804bc51b4f7e81dcb5c9adba0a2dcd9b1fd275eeb52fd9
+  BronzeInnovator: 0x962f11df0772ccaca944314ac40f3e31fa0f7c33
+
 ```
