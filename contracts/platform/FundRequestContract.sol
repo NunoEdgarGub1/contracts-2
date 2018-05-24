@@ -157,8 +157,4 @@ contract FundRequestContract is Owned, ApproveAndCallFallBack {
     function deposit() external onlyOwner payable {
         require(msg.value > 0, "Should at least be 1 wei deposited");
     }
-
-    function() external {
-        // dont receive ether via fallback
-    }
 }
